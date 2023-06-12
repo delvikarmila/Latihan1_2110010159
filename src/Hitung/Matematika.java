@@ -34,5 +34,4 @@ public class Matematika {
     public double setPerkalian2() {
         return bil1 * bil2;
     }
-    
 }
