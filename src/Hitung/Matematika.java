@@ -30,8 +30,4 @@ public class Matematika {
     public double setPembagian() {
         return bil1/bil2;
     }
-    
-    public double setPerkalian2() {
-        return bil1 * bil2;
-    }
 }
